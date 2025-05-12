@@ -1,14 +1,14 @@
 <div align="center">
-    <h1>【 end_4's Hyprland dotfiles 】</h1>
+    <h1>【 Moxiu's Hyprland dotfiles 】 (original by end-4)</h1>
     <h3></h3>
 </div>
 
 <div align="center"> 
-
-![](https://img.shields.io/github/last-commit/end-4/dots-hyprland?&style=for-the-badge&color=FFB1C8&logoColor=D9E0EE&labelColor=292324)
-![](https://img.shields.io/github/stars/end-4/dots-hyprland?style=for-the-badge&logo=andela&color=FFB686&logoColor=D9E0EE&labelColor=292324)
-[![](https://img.shields.io/github/repo-size/end-4/dots-hyprland?color=CAC992&label=SIZE&logo=googledrive&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)](https://github.com/end-4/hyprland)
-![](https://img.shields.io/badge/issues-skill-green?style=for-the-badge&color=CCE8E9&logoColor=D9E0EE&labelColor=292324) 
+    
+![Last Commit](https://img.shields.io/github/last-commit/Moxiuu070/dots-hyprland?style=for-the-badge&color=FFB1C8&logoColor=D9E0EE&labelColor=292324 )
+![Stars](https://img.shields.io/github/stars/Moxiuu070/dots-hyprland?style=for-the-badge&logo=andela&color=FFB686&logoColor=D9E0EE&labelColor=292324 )
+[![Repo Size](https://img.shields.io/github/repo-size/Moxiuu070/dots-hyprland?color=CAC992&label=SIZE&logo=googledrive&style=for-the-badge&logoColor=D9E0EE&labelColor=292324 )](https://github.com/Moxiuu070/dots-hyprland )
+![Issues](https://img.shields.io/badge/issues-skill-green?style=for-the-badge&color=CCE8E9&logoColor=D9E0EE&labelColor=292324 )
 </a>
 
 </div>
@@ -33,7 +33,7 @@
    - **Prerequisite**: Your system works. That's it. You don't have to reinstall your system!
    - **Automatic**, but guided and transparent, installation for Arch(-based) Linux:
    ```bash
-   bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
+   bash <(curl -s "https://raw.githubusercontent.com/Moxiuu070/dots-hyprland/main/setup.sh ")
    ```
    - **Manual** installation, other distros and more:
      - See the [Wiki](https://end-4.github.io/dots-hyprland-wiki/en/i-i/01setup/)
@@ -136,7 +136,6 @@ _<sup>Get yande.re and konachan images from sidebar</sup>_
     <h3></h3>
 </div>
 
-- Funny useful number: https://github.com/sponsors/end-4
 - Funny useless number:
 
 [![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
